@@ -1,0 +1,7 @@
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork1\Exercice3\bin\Debug\Exercice3.exe.config
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork1\Exercice3\bin\Debug\Exercice3.exe
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork1\Exercice3\bin\Debug\Exercice3.pdb
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork1\Exercice3\obj\Debug\Exercice3.csproj.AssemblyReference.cache
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork1\Exercice3\obj\Debug\Exercice3.csproj.CoreCompileInputs.cache
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork1\Exercice3\obj\Debug\Exercice3.exe
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork1\Exercice3\obj\Debug\Exercice3.pdb

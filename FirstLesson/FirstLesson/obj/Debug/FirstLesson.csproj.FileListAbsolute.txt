@@ -1,0 +1,7 @@
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\FirstLesson\FirstLesson\bin\Debug\FirstLesson.exe.config
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\FirstLesson\FirstLesson\bin\Debug\FirstLesson.exe
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\FirstLesson\FirstLesson\bin\Debug\FirstLesson.pdb
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\FirstLesson\FirstLesson\obj\Debug\FirstLesson.csproj.AssemblyReference.cache
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\FirstLesson\FirstLesson\obj\Debug\FirstLesson.csproj.CoreCompileInputs.cache
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\FirstLesson\FirstLesson\obj\Debug\FirstLesson.exe
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\FirstLesson\FirstLesson\obj\Debug\FirstLesson.pdb
