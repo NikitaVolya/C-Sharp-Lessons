@@ -1,10 +1,18 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson2\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{35FD6666-EB1D-4603-82D7-2AE3245158FB}|Exercice1\\Exercice1.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\lesson2\\exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35FD6666-EB1D-4603-82D7-2AE3245158FB}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{461476FF-E005-4F40-A842-964FC7A8DC37}|Lesson2\\Lesson2.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson2\\lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461476FF-E005-4F40-A842-964FC7A8DC37}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> e82e233b4d8672e60c349e0ce35d2d5cc9ba271f
     }
   ],
   "DocumentGroupContainers": [
@@ -24,6 +32,7 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson2\\Exercice1\\Program.cs",
               "RelativeDocumentMoniker": "Exercice1\\Program.cs",
               "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson2\\Exercice1\\Program.cs",
@@ -31,6 +40,15 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T19:00:55.37Z",
+=======
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson2\\Lesson2\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson2\\Program.cs",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson2\\Lesson2\\Program.cs",
+              "RelativeToolTip": "Lesson2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:31:49.307Z",
+>>>>>>> e82e233b4d8672e60c349e0ce35d2d5cc9ba271f
               "EditorCaption": ""
             }
           ]
