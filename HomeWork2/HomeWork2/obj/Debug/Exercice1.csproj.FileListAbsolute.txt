@@ -1,0 +1,7 @@
+C:\Projects\c-sharp\C-Sharp-Lessons\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Projects\c-sharp\C-Sharp-Lessons\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Projects\c-sharp\C-Sharp-Lessons\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Projects\c-sharp\C-Sharp-Lessons\HomeWork2\HomeWork2\obj\Debug\Exercice1.csproj.AssemblyReference.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\HomeWork2\HomeWork2\obj\Debug\Exercice1.csproj.CoreCompileInputs.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Projects\c-sharp\C-Sharp-Lessons\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
