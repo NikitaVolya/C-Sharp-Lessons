@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\HomeWork2\\",
+  "WorkspaceRootPath": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\HomeWork2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A5CDABD-4C9A-4749-9B83-3944AD928980}|Exercice5\\Exercice5.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\homework2\\exercice5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A5CDABD-4C9A-4749-9B83-3944AD928980}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E851CE4-988A-4F9E-BDB4-19C745C07308}|Exercice6\\Exercice6.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\homework2\\exercice6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E851CE4-988A-4F9E-BDB4-19C745C07308}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED7BED6D-C9BF-4EBA-910C-20E1F29BA736}|Exercice7\\Exercice7.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\homework2\\exercice7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7BED6D-C9BF-4EBA-910C-20E1F29BA736}|Exercice7\\Exercice7.csproj|solutionrelative:exercice7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\HomeWork2\\Exercice6\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice6\\Program.cs",
-              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\HomeWork2\\Exercice6\\Program.cs",
-              "RelativeToolTip": "Exercice6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T20:17:19.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\HomeWork2\\Exercice5\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice5\\Program.cs",
-              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\HomeWork2\\Exercice5\\Program.cs",
-              "RelativeToolTip": "Exercice5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\HomeWork2\\Exercice7\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice7\\Program.cs",
+              "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\HomeWork2\\Exercice7\\Program.cs",
+              "RelativeToolTip": "Exercice7\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T20:07:47.148Z",
+              "WhenOpened": "2024-11-03T14:25:49.765Z",
               "EditorCaption": ""
             }
           ]

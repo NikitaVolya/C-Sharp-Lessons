@@ -24,6 +24,12 @@ namespace Exercice2
 
         static void Main(string[] args)
         {
+            int[] nums = new int[] { 1, 2, 30, 5, 47, 10, 987, 45 };
+            int userNum = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"Nums lover then {userNum} is {loverNums(nums, userNum)}");
+            Console.ReadLine();
+
         }
     }
 }

@@ -1,0 +1,7 @@
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork2\Exercice8\bin\Debug\Exercice8.exe.config
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork2\Exercice8\bin\Debug\Exercice8.exe
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork2\Exercice8\bin\Debug\Exercice8.pdb
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork2\Exercice8\obj\Debug\Exercice8.csproj.AssemblyReference.cache
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork2\Exercice8\obj\Debug\Exercice8.csproj.CoreCompileInputs.cache
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork2\Exercice8\obj\Debug\Exercice8.exe
+D:\Projects\с-sharp-projects\C-sharp-lessons-step\HomeWork2\Exercice8\obj\Debug\Exercice8.pdb

@@ -41,8 +41,15 @@ namespace Exercice3
 
         static void Main(string[] args)
         {
-            int[] array = new int[] { 1, 2, 3, 5, 2, 3, 1, 5 };
-            int[] test = new int[] { 2, 3, 5};
+            int[] array = new int[] { 7, 6, 5, 3, 4, 7, 6, 5, 8, 7, 6, 5 };
+            Console.Write("a: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+            Console.Write("b: ");
+            int b = Convert.ToInt32(Console.ReadLine());
+            Console.Write("c: ");
+            int c = Convert.ToInt32(Console.ReadLine());
+
+            int[] test = new int[] { a, b, c};
             Console.WriteLine(findInArray(array, test));
             Console.ReadKey();
         }
