@@ -6,6 +6,15 @@ namespace Exercice4
     {
         private string[] _city_districts;
 
+        public City(string name, string countryName, uint residentsNumber, ulong cityNumber, string[] cityDisctricts)
+        {
+            Name = name;
+            CountryName = countryName;
+            ResidentsNumber = residentsNumber;
+            CityNumber = cityNumber;
+            CityDisctricts = cityDisctricts;
+        }
+
         public string Name { get; set; }
         public string CountryName{ get; set; }
         public UInt32 ResidentsNumber { get; set; }
@@ -51,13 +60,13 @@ namespace Exercice4
 
         static void Main(string[] args)
         {
-            City city = new City { 
-               Name="Saint-Etienne",
-               CountryName="France", 
-               CityDisctricts = new string[] { "Metar", "Jean Monnet" },
-               ResidentsNumber = 172718,
-               CityNumber = 0477487748 
-            };
+            City city = new City (
+               "Saint-Etienne",
+               "France", 
+               172718,
+               0477487748,
+               new string[] { "Metar", "Jean Monnet" }
+            );
             city.Print();
             Console.ReadKey();
         }
