@@ -1,18 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson4\\",
+  "WorkspaceRootPath": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC953664-1F2F-46D2-A550-53A818E176C5}|Exercice3\\Exercice3.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\lesson4\\exercice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC953664-1F2F-46D2-A550-53A818E176C5}|Exercice3\\Exercice3.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson4\\exercice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC953664-1F2F-46D2-A550-53A818E176C5}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FFAB996-53C1-48BA-A9C0-6E7575E48136}|Exercice2\\Exercice2.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\lesson4\\exercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FFAB996-53C1-48BA-A9C0-6E7575E48136}|Exercice2\\Exercice2.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson4\\exercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FFAB996-53C1-48BA-A9C0-6E7575E48136}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C26C26-76EB-4BF7-ACBD-E3344383412D}|Exercice1\\Exercice1.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\lesson4\\exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C26C26-76EB-4BF7-ACBD-E3344383412D}|Exercice1\\Exercice1.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson4\\exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C26C26-76EB-4BF7-ACBD-E3344383412D}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EADE3EA-3E3B-4835-9B4A-02E45DB31ACD}|Exerice4\\Exerice4.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson4\\exerice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EADE3EA-3E3B-4835-9B4A-02E45DB31ACD}|Exerice4\\Exerice4.csproj|solutionrelative:exerice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Exercice3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC953664-1F2F-46D2-A550-53A818E176C5}|Exercice3\\Exercice3.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson4\\exercice3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 252,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +40,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson4\\Exercice3\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice3\\Program.cs",
-              "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson4\\Exercice3\\Program.cs",
-              "RelativeToolTip": "Exercice3\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T19:09:00.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson4\\Exercice2\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\Exercice2\\Program.cs",
               "RelativeDocumentMoniker": "Exercice2\\Program.cs",
-              "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson4\\Exercice2\\Program.cs",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\Exercice2\\Program.cs",
               "RelativeToolTip": "Exercice2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T19:03:43.175Z",
+              "WhenOpened": "2024-11-07T14:23:46.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson4\\Exercice1\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\Exercice1\\Program.cs",
               "RelativeDocumentMoniker": "Exercice1\\Program.cs",
-              "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson4\\Exercice1\\Program.cs",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\Exercice1\\Program.cs",
               "RelativeToolTip": "Exercice1\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T18:49:40.01Z",
+              "WhenOpened": "2024-11-07T14:23:26.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\Exerice4\\Program.cs",
+              "RelativeDocumentMoniker": "Exerice4\\Program.cs",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\Exerice4\\Program.cs",
+              "RelativeToolTip": "Exerice4\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:04:58.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercice3",
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\Exercice3\\Exercice3.csproj",
+              "RelativeDocumentMoniker": "Exercice3\\Exercice3.csproj",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\Exercice3\\Exercice3.csproj",
+              "RelativeToolTip": "Exercice3\\Exercice3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T13:23:43.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\Exercice3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Program.cs",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson4\\Exercice3\\Program.cs",
+              "RelativeToolTip": "Exercice3\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv4EAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:09:00.817Z",
               "EditorCaption": ""
             }
           ]
