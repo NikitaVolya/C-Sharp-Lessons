@@ -24,11 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\volan\\source\\repos\\Lesson3\\Exercice4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Program.cs",
+              "ToolTip": "C:\\Users\\volan\\source\\repos\\Lesson3\\Exercice4\\Program.cs",
+              "RelativeToolTip": "Exercice4\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA4wCMAAAAbAAAAAAAAAA==",
+=======
               "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson3\\Exercice7\\Program.cs",
               "RelativeDocumentMoniker": "Exercice7\\Program.cs",
               "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson3\\Exercice7\\Program.cs",
               "RelativeToolTip": "Exercice7\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAAcAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAbAAAAAAAAAA==",
+>>>>>>> 8878d4df8f1565d386230ead771f58e8bd973f6e
+>>>>>>> 136dcaed3993df81b453e9771b0989ce028811c8
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T10:13:43.333Z",
               "EditorCaption": ""
