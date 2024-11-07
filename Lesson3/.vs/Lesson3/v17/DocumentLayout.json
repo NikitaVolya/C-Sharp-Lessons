@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\volan\\source\\repos\\Lesson3\\",
+  "WorkspaceRootPath": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0B1596A-33A8-4629-A3F5-BBF967829AB6}|Exercice4\\Exercice4.csproj|C:\\Users\\volan\\source\\repos\\Lesson3\\exercice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0B1596A-33A8-4629-A3F5-BBF967829AB6}|Exercice4\\Exercice4.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\lesson3\\exercice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0B1596A-33A8-4629-A3F5-BBF967829AB6}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\volan\\source\\repos\\Lesson3\\Exercice4\\Program.cs",
+              "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson3\\Exercice4\\Program.cs",
               "RelativeDocumentMoniker": "Exercice4\\Program.cs",
-              "ToolTip": "C:\\Users\\volan\\source\\repos\\Lesson3\\Exercice4\\Program.cs",
+              "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson3\\Exercice4\\Program.cs",
               "RelativeToolTip": "Exercice4\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA4wCMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T09:41:44.417Z",
               "EditorCaption": ""
