@@ -20,7 +20,6 @@ namespace Exercice3
         UInt16 cvc;
         UInt32 data;
 
-        
         public string Number
         {
             get

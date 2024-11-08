@@ -18,8 +18,13 @@ namespace Exerice4
     {
         static int evalMultiple(string line)
         {
+            if (line == null) 
+                throw new ArgumentException("The line must not be null");
+            if (line == "")
+                throw new ArgumentException("The line must not be empty");
+            if (!Char.IsDigit(line[0]))
+                throw new ArgumentException("Invalide first character in string: " + line[0]);
             int rep = 1;
-
             int tmp = 0;
             for (int i = 0; i < line.Length; i++)
             {
@@ -29,13 +34,9 @@ namespace Exerice4
                     tmp = 0;
                 }
                 else if (Char.IsDigit(line[i]))
-                {
                     tmp = tmp * 10 + line[i] - '0';
-                }
                 else
-                {
                     throw new ArgumentException("Invalide value in string: " + line[i]);
-                }
             }
             rep *= tmp;
             return rep;
@@ -50,6 +51,38 @@ namespace Exerice4
             try
             {
                 Console.WriteLine(evalMultiple("2*12*2.4"));
+            }
+            catch (ArgumentException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            try
+            {
+                Console.WriteLine(evalMultiple("2*12a*2"));
+            }
+            catch (ArgumentException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            try
+            {
+                Console.WriteLine(evalMultiple("*12*24"));
+            }
+            catch (ArgumentException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            try
+            {
+                Console.WriteLine(evalMultiple(""));
+            }
+            catch (ArgumentException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            try
+            {
+                Console.WriteLine(evalMultiple(null));
             }
             catch (ArgumentException e)
             {
