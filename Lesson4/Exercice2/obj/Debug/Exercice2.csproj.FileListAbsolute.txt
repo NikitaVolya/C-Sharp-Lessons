@@ -5,3 +5,10 @@ D:\Projects\с-sharp-projects\C-sharp-lessons-step\Lesson4\Exercice2\obj\Debug\E
 D:\Projects\с-sharp-projects\C-sharp-lessons-step\Lesson4\Exercice2\obj\Debug\Exercice2.csproj.CoreCompileInputs.cache
 D:\Projects\с-sharp-projects\C-sharp-lessons-step\Lesson4\Exercice2\obj\Debug\Exercice2.exe
 D:\Projects\с-sharp-projects\C-sharp-lessons-step\Lesson4\Exercice2\obj\Debug\Exercice2.pdb
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson4\Exercice2\bin\Debug\Exercice2.exe.config
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson4\Exercice2\bin\Debug\Exercice2.exe
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson4\Exercice2\bin\Debug\Exercice2.pdb
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson4\Exercice2\obj\Debug\Exercice2.csproj.AssemblyReference.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson4\Exercice2\obj\Debug\Exercice2.csproj.CoreCompileInputs.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson4\Exercice2\obj\Debug\Exercice2.exe
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson4\Exercice2\obj\Debug\Exercice2.pdb
