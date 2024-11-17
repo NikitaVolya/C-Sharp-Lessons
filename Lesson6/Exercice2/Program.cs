@@ -43,7 +43,7 @@ namespace Exercice2
                         data[i, j] = value[i, j];
             }
         }
-        
+
         public int Filter(Func<int, int, bool> func)
         {
             int rep = data[0, 0];
@@ -69,7 +69,27 @@ namespace Exercice2
                 return Filter(func);
             }
         }
+        public int this[int i, int j]
+        {
+            get { return data[i, j]; }
+            set { data[i, j] |= value; }
+        }
 
+        public static bool operator ==(Matrix a, Matrix b)
+        {
+            if (a.Height != b.Height || a.Width != b.Width)
+                return false;
+
+            for (int i = 0; i <  a.Height; i++) 
+                for (int j = 0; j <  a.Width; j++)
+                    if (a.data[i, j] != b.data[i, j])
+                        return false;
+            return true;
+        }
+        public static bool operator !=(Matrix a, Matrix b)
+        {
+            return !(a == b);
+        }
         public static Matrix operator +(Matrix a, Matrix b)
         {
             if (a.Height != b.Height || a.Width != b.Width)
@@ -109,16 +129,28 @@ namespace Exercice2
 
             return new Matrix(newTable);
         }
+        
         public override string ToString()
         {
             string rep = "";
             for (int i = 0; i < Height; i++)
             {
+                rep += "| ";
                 for (int j = 0; j < Width; j++)
                     rep += data[i, j] + " ";
-                rep += '\n';
+                rep += "|";
+                if (i != Height - 1)
+                    rep += '\n';
             }
             return rep;
+        }
+        public override int GetHashCode()
+        {
+            return ToString().GetHashCode();
+        }
+        public override bool Equals(object obj)
+        {
+            return ToString() == obj.ToString();
         }
     }
 
@@ -128,8 +160,13 @@ namespace Exercice2
         {
             Matrix a = new Matrix(new int[,] { { 1, 2 }, { 3, 4 } });
             Matrix b = new Matrix(new int[,] { { 0, 2 }, { 1, 3} });
+            Matrix c = new Matrix(new int[,] { { 3 }, { 1 } });
 
-            Console.WriteLine((a * b).ToString());
+            Console.WriteLine(a * b);
+            Console.WriteLine((a * b)[0, 0]);
+            Console.WriteLine(a + b);
+            Console.WriteLine(a - b);
+            Console.WriteLine(a * c);
             Console.ReadLine();
         }
     }

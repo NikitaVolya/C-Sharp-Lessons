@@ -1,34 +1,26 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E19CA2CC-AB89-4D50-8785-5E47DEA9F333}|Exercice4\\Exercice4.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson5\\exercice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19CA2CC-AB89-4D50-8785-5E47DEA9F333}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC228722-87C2-4C04-9199-2123E29CCFE9}|Exercice3\\Exercice3.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson5\\exercice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC228722-87C2-4C04-9199-2123E29CCFE9}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A244E85-C3E5-449F-86D6-D087FF919ECF}|Exercice2\\Exercice2.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson5\\exercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A244E85-C3E5-449F-86D6-D087FF919ECF}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-  "WorkspaceRootPath": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\",
-  "Documents": [
+    },
     {
-      "AbsoluteMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\lesson5\\exercice1\\primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson5\\exercice1\\primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\lesson5\\exercice1\\notevennumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\notevennumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\lesson5\\exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\lesson5\\exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\lesson5\\exercice1\\evennumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\evennumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|d:\\projects\\\u0441-sharp-projects\\c-sharp-lessons-step\\lesson5\\exercice1\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCD1DD24-88AC-4ABF-819F-A203729BAF9E}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 0aa0a1f1e38c6939d0229c6a78dffdc269927add
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 252,
-<<<<<<< HEAD
           "SelectedChildIndex": 1,
-=======
-          "SelectedChildIndex": 3,
->>>>>>> 0aa0a1f1e38c6939d0229c6a78dffdc269927add
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,79 +38,67 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice2\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice2\\Program.cs",
-              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice2\\Program.cs",
-              "RelativeToolTip": "Exercice2\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Program.cs",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice4\\Program.cs",
+              "RelativeToolTip": "Exercice4\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:23:19.374Z",
-=======
+              "WhenOpened": "2024-11-17T07:21:01.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NotEvenNumbers.cs",
-              "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\Exercice1\\NotEvenNumbers.cs",
-              "RelativeDocumentMoniker": "Exercice1\\NotEvenNumbers.cs",
-              "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\Exercice1\\NotEvenNumbers.cs",
-              "RelativeToolTip": "Exercice1\\NotEvenNumbers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Program.cs",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice3\\Program.cs",
+              "RelativeToolTip": "Exercice3\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwF0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T09:49:08.889Z",
+              "WhenOpened": "2024-11-17T01:52:47.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EvenNumbers.cs",
-              "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\Exercice1\\EvenNumbers.cs",
-              "RelativeDocumentMoniker": "Exercice1\\EvenNumbers.cs",
-              "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\Exercice1\\EvenNumbers.cs",
-              "RelativeToolTip": "Exercice1\\EvenNumbers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T09:48:57.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "PrimeNumbers.cs",
-              "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\Exercice1\\PrimeNumbers.cs",
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice1\\PrimeNumbers.cs",
               "RelativeDocumentMoniker": "Exercice1\\PrimeNumbers.cs",
-              "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\Exercice1\\PrimeNumbers.cs",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice1\\PrimeNumbers.cs",
               "RelativeToolTip": "Exercice1\\PrimeNumbers.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T09:33:49.504Z",
+              "WhenOpened": "2024-11-17T01:36:31.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Numbers.cs",
-              "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\Exercice1\\Numbers.cs",
-              "RelativeDocumentMoniker": "Exercice1\\Numbers.cs",
-              "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\Exercice1\\Numbers.cs",
-              "RelativeToolTip": "Exercice1\\Numbers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice1\\Program.cs",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice1\\Program.cs",
+              "RelativeToolTip": "Exercice1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T09:17:38.525Z",
+              "WhenOpened": "2024-11-17T01:36:12.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\Exercice1\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice1\\Program.cs",
-              "ToolTip": "D:\\Projects\\\u0441-sharp-projects\\C-sharp-lessons-step\\Lesson5\\Exercice1\\Program.cs",
-              "RelativeToolTip": "Exercice1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice2\\Program.cs",
+              "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\Lesson5\\Exercice2\\Program.cs",
+              "RelativeToolTip": "Exercice2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwJcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T09:07:35.247Z",
->>>>>>> 0aa0a1f1e38c6939d0229c6a78dffdc269927add
+              "WhenOpened": "2024-11-12T09:23:19.374Z",
               "EditorCaption": ""
             }
           ]
