@@ -129,6 +129,14 @@ namespace Exercice2
 
             return new Matrix(newTable);
         }
+        public static Matrix operator *(Matrix a, int number)
+        {
+            Matrix tmp = a;
+            for (int i = 0; i < tmp.Height; i++)
+                for (int j = 0; j <  tmp.Width; j++)
+                    tmp.data[i, j] *= number;
+            return tmp;
+        }
         
         public override string ToString()
         {
@@ -158,15 +166,16 @@ namespace Exercice2
     {
         static void Main(string[] args)
         {
-            Matrix a = new Matrix(new int[,] { { 1, 2 }, { 3, 4 } });
+            Matrix a = new Matrix(new int[,] { { 1, 2 }, { 3, 2 } });
             Matrix b = new Matrix(new int[,] { { 0, 2 }, { 1, 3} });
-            Matrix c = new Matrix(new int[,] { { 3 }, { 1 } });
+            Matrix c = new Matrix(new int[,] { { 1 }, { 1 } });
 
             Console.WriteLine(a * b);
             Console.WriteLine((a * b)[0, 0]);
             Console.WriteLine(a + b);
             Console.WriteLine(a - b);
             Console.WriteLine(a * c);
+            Console.WriteLine(a * 2);
             Console.ReadLine();
         }
     }
