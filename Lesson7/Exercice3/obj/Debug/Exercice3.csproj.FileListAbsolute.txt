@@ -1,0 +1,7 @@
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson7\Exercice3\bin\Debug\Exercice3.exe.config
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson7\Exercice3\bin\Debug\Exercice3.exe
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson7\Exercice3\bin\Debug\Exercice3.pdb
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson7\Exercice3\obj\Debug\Exercice3.csproj.AssemblyReference.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson7\Exercice3\obj\Debug\Exercice3.csproj.CoreCompileInputs.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson7\Exercice3\obj\Debug\Exercice3.exe
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson7\Exercice3\obj\Debug\Exercice3.pdb

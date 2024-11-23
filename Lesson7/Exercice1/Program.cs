@@ -4,6 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Створіть клас Human, який міститиме інформацію про
+//людину. За допомогою механізму спадкування реалізуй-
+//те клас Builder (містить інформацію про будівельника),
+//клас Sailor (містить інформацію про моряка), клас Pilot
+//(містить інформацію про льотчика).
+//Кожен із класів повинен містити необхідні для роботи
+//методи.
+
 namespace Exercice1
 {
     abstract class  Human
@@ -72,6 +80,8 @@ namespace Exercice1
         {
             Builder builder = new Builder("multi-storey buildings", "Sergey Kostine");
             Console.WriteLine(builder);
+            Pilot pilot = new Pilot("Ukraine -> USA", "Faudhel Duvale");
+            Console.WriteLine(pilot);
             Console.Read();
         }
     }
