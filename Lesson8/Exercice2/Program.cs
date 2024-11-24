@@ -43,7 +43,7 @@ namespace Exercice2
     class Array : IMath, IEnumerator, IEnumerable
     {
         private int[] _elements;
-        private int position = -1;
+        private int _position = -1;
 
         public int Length { get => _elements.Length; }
         public Array(int[] elements)
@@ -99,16 +99,16 @@ namespace Exercice2
         }
         public bool MoveNext()
         {
-            position++;
-            return (position < _elements.Length);
+            _position++;
+            return (_position < _elements.Length);
         }
         public void Reset()
         {
-            position = -1;
+            _position = -1;
         }
         public object Current
         {
-            get { return _elements[position]; }
+            get { return _elements[_position]; }
         }
     }
 
