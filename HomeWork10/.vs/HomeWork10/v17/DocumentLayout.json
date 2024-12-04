@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{6B2A8705-999D-47C1-942A-2B625CE842F4}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D7B8AF5-AD05-44CE-AE63-EA26DE2CCAB2}|Exercice2\\Exercice2.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\homework10\\exercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D7B8AF5-AD05-44CE-AE63-EA26DE2CCAB2}|Exercice2\\Exercice2.csproj|C:\\Projects\\c-sharp\\C-Sharp-Lessons\\HomeWork10\\exercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D7B8AF5-AD05-44CE-AE63-EA26DE2CCAB2}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E335ECD9-6692-4DDE-94D0-EDC57C313199}|Exercice1\\Exercice1.csproj|c:\\projects\\c-sharp\\c-sharp-lessons\\homework10\\exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E335ECD9-6692-4DDE-94D0-EDC57C313199}|Exercice1\\Exercice1.csproj|C:\\Projects\\c-sharp\\C-Sharp-Lessons\\HomeWork10\\exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E335ECD9-6692-4DDE-94D0-EDC57C313199}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Exercice3\\Program.cs",
               "ToolTip": "C:\\Projects\\c-sharp\\C-Sharp-Lessons\\HomeWork10\\Exercice3\\Program.cs",
               "RelativeToolTip": "Exercice3\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAzwD0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T13:24:07.512Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Exercice2\\Program.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAwwDgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T16:55:37.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T16:55:37.756Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Exercice1\\Program.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAowEwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T16:36:51.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T16:36:51.713Z"
             }
           ]
         }

@@ -17,17 +17,25 @@ class Apartment
     public string OwnerFullName { get; set; }
     public float Size { get; set; }
     public int Stage {  get; set; }
+    public string[] Tenants { get; set; }
 
-    public Apartment(string ownerFullName, float size, int stage)
+    public Apartment(string ownerFullName, float size, int stage, params string[] tenants)
     {
         OwnerFullName = ownerFullName;
         Size = size;
         Stage = stage;
+        Tenants = tenants;
     }
 
     public override string ToString()
     {
         return $"{OwnerFullName} | Size: {Size} | Stage: {Stage}";
+    }
+
+    public IEnumerator<String> GetEnumerator()
+    {
+        for (int i = 0; i < Tenants.Length; i++)
+            yield return Tenants[i];
     }
 }
 
@@ -47,9 +55,7 @@ class House
     public IEnumerator<Apartment> GetEnumerator()
     {
         for (int i = 0; i < _apartments.Count; i++)
-        {
             yield return _apartments[i];
-        }
     }
 }
 
@@ -60,13 +66,15 @@ namespace Exercice2
         static void Main(string[] args)
         {
             House house = new House (
-                new Apartment("Volianskyi Nikita", 22, 1),
-                new Apartment("Slobodanuke", 22, 2)
+                new Apartment("Bosa", 22, 1, "Volianskyi Nikita", "Bosa Kristina", "Bosa Melania"),
+                new Apartment("Slobodanuke", 22, 2, "Slobodanuke Oleg")
             );
 
             foreach (Apartment apartment in house)
             {
                 Console.WriteLine(apartment.ToString());
+                foreach (string tenant in apartment)
+                    Console.WriteLine(tenant);
             }
             Console.Read();
         }

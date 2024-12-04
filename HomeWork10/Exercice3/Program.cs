@@ -19,9 +19,12 @@ using System.Threading.Tasks;
 //■ Старт використання кредитних коштів;
 //■ Досягнення ліміту заданої суми грошей;
 //■ Зміна PIN.
+ 
 
 namespace Exercice3
 {
+
+
     class CreditCard
     {
         UInt64 _number;
@@ -31,8 +34,7 @@ namespace Exercice3
         UInt16 _pin;
         double _credit_limit;
 
-
-        public CreditCard(string pNumber, int pCVC, string pData, string pOwnerFullName, int pPin, double pCash)
+        public CreditCard(string pNumber, int pCVC, string pData, string pOwnerFullName, int pPin, double pCash, double pCreditLimit)
         {
             Number = pNumber;
             OwnerFullName = pOwnerFullName;
@@ -40,6 +42,7 @@ namespace Exercice3
             Data = pData;
             PIN = pPin;
             Cash = pCash;
+            CreditLimit = pCreditLimit;
         }
 
         public string Number
