@@ -1,0 +1,7 @@
+C:\Users\volan\source\repos\HomeWork11.3\Exercice1\bin\Debug\Exercice1.exe.config
+C:\Users\volan\source\repos\HomeWork11.3\Exercice1\bin\Debug\Exercice1.exe
+C:\Users\volan\source\repos\HomeWork11.3\Exercice1\bin\Debug\Exercice1.pdb
+C:\Users\volan\source\repos\HomeWork11.3\Exercice1\obj\Debug\Exercice1.csproj.AssemblyReference.cache
+C:\Users\volan\source\repos\HomeWork11.3\Exercice1\obj\Debug\Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\volan\source\repos\HomeWork11.3\Exercice1\obj\Debug\Exercice1.exe
+C:\Users\volan\source\repos\HomeWork11.3\Exercice1\obj\Debug\Exercice1.pdb
