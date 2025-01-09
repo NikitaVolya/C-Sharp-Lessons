@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AlbumName>The Greatest Hits</AlbumName>
+  <AlbumAuthor>Various Artists</AlbumAuthor>
+  <AlbumRelise>2021-11-15T00:00:00</AlbumRelise>
+  <AlbumStudio>Universal Music</AlbumStudio>
+  <AlbumMusics>
+    <Music>
+      <MusicName>Hit Song 1</MusicName>
+      <MusicDuration>3.5</MusicDuration>
+      <style>Pop</style>
+    </Music>
+    <Music>
+      <MusicName>Hit Song 2</MusicName>
+      <MusicDuration>4.2</MusicDuration>
+      <style>Rock</style>
+    </Music>
+    <Music>
+      <MusicName>Hit Song 3</MusicName>
+      <MusicDuration>5</MusicDuration>
+      <style>Jazz</style>
+    </Music>
+    <Music>
+      <MusicName>Hit Song 4</MusicName>
+      <MusicDuration>2.8</MusicDuration>
+      <style>Electronic</style>
+    </Music>
+  </AlbumMusics>
+</Album>
