@@ -1,0 +1,12 @@
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\bin\Debug\net8.0\BooksLib.deps.json
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\bin\Debug\net8.0\BooksLib.dll
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\bin\Debug\net8.0\BooksLib.pdb
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\BooksLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\BooksLib.AssemblyInfoInputs.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\BooksLib.AssemblyInfo.cs
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\BooksLib.csproj.CoreCompileInputs.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\BooksLib.sourcelink.json
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\BooksLib.dll
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\refint\BooksLib.dll
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\BooksLib.pdb
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\ref\BooksLib.dll

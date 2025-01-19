@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Magazine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>TEST</Name>
+  <Author>test</Author>
+  <Relise>2006-03-13T00:00:00</Relise>
+  <PageNumber>18</PageNumber>
+</Magazine>

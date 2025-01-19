@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfMagazine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Magazine>
+    <Name>Science Today</Name>
+    <Author>Dr. Emily Watson</Author>
+    <Relise>2023-04-15T00:00:00</Relise>
+    <PageNumber>120</PageNumber>
+    <articles>
+      <Article>
+        <ArticleName>The Future of Quantum Physics</ArticleName>
+        <CharactersNumber>5000</CharactersNumber>
+        <ArticleAnnouncement>Exploring the advancements in quantum computing.</ArticleAnnouncement>
+      </Article>
+      <Article>
+        <ArticleName>Climate Change: The Real Impact</ArticleName>
+        <CharactersNumber>4000</CharactersNumber>
+        <ArticleAnnouncement>Understanding how global warming affects our planet.</ArticleAnnouncement>
+      </Article>
+    </articles>
+  </Magazine>
+  <Magazine>
+    <Name>Traveler's Paradise</Name>
+    <Author>Michael Brown</Author>
+    <Relise>2022-11-05T00:00:00</Relise>
+    <PageNumber>85</PageNumber>
+    <articles>
+      <Article>
+        <ArticleName>Top 10 Beaches to Visit</ArticleName>
+        <CharactersNumber>3500</CharactersNumber>
+        <ArticleAnnouncement>Discover the most breathtaking beaches around the world.</ArticleAnnouncement>
+      </Article>
+      <Article>
+        <ArticleName>Hidden Gems in Europe</ArticleName>
+        <CharactersNumber>4200</CharactersNumber>
+        <ArticleAnnouncement>Unveiling lesser-known destinations in Europe.</ArticleAnnouncement>
+      </Article>
+    </articles>
+  </Magazine>
+  <Magazine>
+    <Name>Tech Innovators</Name>
+    <Author>Sophia Martinez</Author>
+    <Relise>2024-06-20T00:00:00</Relise>
+    <PageNumber>100</PageNumber>
+    <articles>
+      <Article>
+        <ArticleName>AI in Everyday Life</ArticleName>
+        <CharactersNumber>4800</CharactersNumber>
+        <ArticleAnnouncement>How artificial intelligence is shaping our daily routines.</ArticleAnnouncement>
+      </Article>
+      <Article>
+        <ArticleName>The Rise of Electric Vehicles</ArticleName>
+        <CharactersNumber>5200</CharactersNumber>
+        <ArticleAnnouncement>Examining the evolution of the electric car industry.</ArticleAnnouncement>
+      </Article>
+    </articles>
+  </Magazine>
+</ArrayOfMagazine>

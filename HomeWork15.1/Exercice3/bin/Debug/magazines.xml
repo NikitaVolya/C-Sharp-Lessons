@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfMagazine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Magazine>
+    <Name>Science Today</Name>
+    <Author>Dr. Emily Watson</Author>
+    <Relise>2023-04-15T00:00:00</Relise>
+    <PageNumber>120</PageNumber>
+  </Magazine>
+  <Magazine>
+    <Name>Traveler's Paradise</Name>
+    <Author>Michael Brown</Author>
+    <Relise>2022-11-05T00:00:00</Relise>
+    <PageNumber>85</PageNumber>
+  </Magazine>
+  <Magazine>
+    <Name>Tech Innovators</Name>
+    <Author>Sophia Martinez</Author>
+    <Relise>2024-06-20T00:00:00</Relise>
+    <PageNumber>100</PageNumber>
+  </Magazine>
+</ArrayOfMagazine>

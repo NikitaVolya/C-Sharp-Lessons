@@ -1,0 +1,7 @@
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\CodeTest\obj\Debug\CodeTest.csproj.AssemblyReference.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\CodeTest\obj\Debug\CodeTest.csproj.CoreCompileInputs.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\CodeTest\bin\Debug\CodeTest.exe.config
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\CodeTest\bin\Debug\CodeTest.exe
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\CodeTest\bin\Debug\CodeTest.pdb
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\CodeTest\obj\Debug\CodeTest.exe
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\CodeTest\obj\Debug\CodeTest.pdb

@@ -1,0 +1,12 @@
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\bin\Debug\net8.0\Exercice1.deps.json
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\bin\Debug\net8.0\Exercice1.dll
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\bin\Debug\net8.0\Exercice1.pdb
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\Exercice1.AssemblyInfoInputs.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\Exercice1.AssemblyInfo.cs
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\Exercice1.csproj.CoreCompileInputs.cache
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\Exercice1.sourcelink.json
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\Exercice1.dll
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\refint\Exercice1.dll
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\Exercice1.pdb
+C:\Projects\c-sharp\C-Sharp-Lessons\Lesson16.1\BooksLib\obj\Debug\net8.0\ref\Exercice1.dll
